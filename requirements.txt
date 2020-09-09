@@ -1,0 +1,4 @@
+qiskit
+pandas
+arcade
+dataclasses
