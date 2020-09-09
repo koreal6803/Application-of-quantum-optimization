@@ -1,11 +1,6 @@
 # Application-of-quantum-optimization
 
-
-<a href="https://ibb.co/jz9MTnd"><img src="" alt="Screen-Shot-2020-09-10-at-1-38-50-AM" border="0"></a>
-
 ![demo_]("https://i.ibb.co/sCpw28h/Screen-Shot-2020-09-10-at-1-38-50-AM.png")
-
-
 ## Usage
 1. Please install prerequirements: python 3.X
 2. create a new environment is prefertable
