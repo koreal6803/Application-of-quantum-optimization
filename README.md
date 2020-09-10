@@ -1,5 +1,6 @@
 # Wireless Vehicle Network - applications for quantum optimization
 
+Introduction slides are in the repo too! Please download it to obtain futhuer information.
 [![Build Status](https://i.ibb.co/sCpw28h/Screen-Shot-2020-09-10-at-1-38-50-AM.png)](https://i.ibb.co/sCpw28h/Screen-Shot-2020-09-10-at-1-38-50-AM.png)
 ## Usage
 1. Please install prerequirements: python 3.X
