@@ -56,7 +56,7 @@ BACKGROUND = arcade.load_texture("bg.png")
 # Buttons
 PLAY_BUTTON = arcade.Sprite("play.png", 0.5)
 STOP_BUTTON = arcade.Sprite("pause.png", 0.5)
-RESET_BUTTON = arcade.Sprite("RESET.png", 0.5)
+RESET_BUTTON = arcade.Sprite("reset.png", 0.5)
 
 button_sprites = arcade.SpriteList()
 button_sprites.append(PLAY_BUTTON)
