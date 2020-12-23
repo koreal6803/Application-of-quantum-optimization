@@ -13,5 +13,8 @@ pip install -r requirements.txt
 python vis.py
 ```
 ## Description
-1. Reach approximate solution of MAXCUT problem by quantum approximate optimization algorithm (QAOA)
-2. 
+Our tasks are composed of 3 subtasks: sensor distribution, vehicle localization, and data synchrnization.
+
+1. Sensor distriution: Reach approximate solutions of the MAXCUT problem by quantum approximate optimization algorithm (QAOA). Use MAXCUT to distribute the sensors.
+2. Vehicle localization: Use the distributed sensors (by the first subtask) to localize vehicles. The problem is equivalent to minimization of quadratic functions.
+3. Data synchrnization: design routes from servers to many locations and back to the server.
