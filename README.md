@@ -12,3 +12,6 @@ cd Application-of-quantum-optimization
 pip install -r requirements.txt
 python vis.py
 ```
+## Description
+1. Reach approximate solution of MAXCUT problem by quantum approximate optimization algorithm (QAOA)
+2. 
