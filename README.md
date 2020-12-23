@@ -17,4 +17,4 @@ Our tasks are composed of 3 subtasks: sensor distribution, vehicle localization,
 
 1. Sensor distriution: Reach approximate solutions of the MAXCUT problem by quantum approximate optimization algorithm (QAOA). Use MAXCUT to distribute the sensors.
 2. Vehicle localization: Use the distributed sensors (by the first subtask) to localize vehicles. The problem is equivalent to minimization of quadratic functions.
-3. Data synchrnization: design routes from servers to many locations and back to the server.
+3. Data synchrnization: design routes from servers to many locations and back to the server. Physically, the problem can be mapped into an Ising Hamiltonian, and we used the existing quantum algorithm to acquire its eigenstates.
